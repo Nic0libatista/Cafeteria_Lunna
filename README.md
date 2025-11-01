@@ -1,5 +1,5 @@
 ![GitHub license](https://img.shields.io/github/license/nic0libatista/site)
-![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fnic0libatista.github.io%2Fsite%2F)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fnic0libatista.github.io%2FCafeteria_Lunna%2F)
 
 
 
@@ -38,7 +38,7 @@ Projeto feito para fins educacionais no curso técnico de Informática, com foco
 
 ## Site responsivo
  Visite também pelo seu smartphone! <br>
- ![](img/qrcode.png)
+ ![](img/qrcode_nic0libatista.github.io.png)
  
 
 
