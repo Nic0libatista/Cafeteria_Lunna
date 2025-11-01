@@ -42,6 +42,3 @@ Projeto feito para fins educacionais no curso técnico de Informática, com foco
  
 
 
-
-Nicoli Santos
-Estudante de Informática – SENAC
