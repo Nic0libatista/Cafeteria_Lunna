@@ -37,7 +37,7 @@ Projeto feito para fins educacionais no curso técnico de Informática, com foco
 
 
 ## Site responsivo
- Visite também pelo seu smartphone! <br>
+ Visite também pelo seu smartphone ou tablet! <br>
  ![](img/qrcode_nic0libatista.github.io.png)
  
 
